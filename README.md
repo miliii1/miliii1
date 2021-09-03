@@ -1,6 +1,7 @@
  <h3 align="center">¡Hey 👋! I'm Milagros Jara</h3>
 </p>
 <p align="center">Estudiante <strong>Full Stack Developer</strong><br /></p>
+<a href="#" ><img src="https://media1.giphy.com/media/MoR1Unapz0aP2byfsL/giphy.gif?cid=790b761104dcb33075222c6601fa2e9a99de3cbb60993c20&rid=giphy.gif&ct=g" /></a>
 <p align="center">
 #####Languages I use
 
