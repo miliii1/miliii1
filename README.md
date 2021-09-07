@@ -21,3 +21,5 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+<h3 align="center">Projects</h3>
+</p>
