@@ -7,5 +7,6 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
  <h3 align="center">Skills</h3>
 </p>
 📌
+
 📌
 
