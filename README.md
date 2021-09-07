@@ -37,4 +37,6 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 <img src= "https://user-images.githubusercontent.com/80269896/124759792-6f989300-df06-11eb-8bc3-ffc42247f9ce.png" width= "100%">
  
  <h2>Contact</h2>
- 
+ <p align="center">
+    <a href="https://www.linkedin.com/in/milagros-jara/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:milagrosjara26@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
