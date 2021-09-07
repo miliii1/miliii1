@@ -22,6 +22,7 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 
 
 <h3 align="center">Projects</h3>
+<hr></hr>
 
 [<h3> App Libros </h3>](https://github.com/miliii1/app-libros)
 <p align="center">
