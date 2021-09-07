@@ -1,9 +1,10 @@
 <h3 align="center">¡Hey :wave:! I'm Milagros Jara</h3>
 </p>
+<samp>
 <br/>I'm a systems student and full stack developer, passionate about programming:woman_technologist:.
 
 I adapt easily to changes and aspire to continue progressing, giving my best</br>
-
+</samp>
  <h3 align="center">Skills</h3>
 </p>
 <hr></hr>
@@ -34,3 +35,6 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 [<h3> TodoList </h3>](https://github.com/miliii1/todolist)
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/80269896/124759792-6f989300-df06-11eb-8bc3-ffc42247f9ce.png" width= "100%">
+ 
+ <h2>Contact</h2>
+ 
