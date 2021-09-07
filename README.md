@@ -6,7 +6,6 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 
  <h3 align="center">Skills</h3>
 </p>
- ### 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
