@@ -26,15 +26,15 @@ I adapt easily to changes and aspire to continue progressing, giving my best</br
 <h3 align="center">Projects</h3>
 <hr></hr>
 
-[<h3> App Libros </h3>](https://github.com/miliii1/app-libros)
+[<h3> Pokemon App </h3>](https://github.com/miliii1/PI-Pokemon-m)
 <p align="center">
-<img src= "https://camo.githubusercontent.com/6a0ed757825568868baa0f7df3326ebc0615ec13d08a3111d71e0e450a137f2b/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3735313531343933303437373430303037372f3836393334333333393933363338333031362f756e6b6e6f776e2e706e673f77696474683d383737266865696768743d343235" width= "90%">
+<img src= "https://user-images.githubusercontent.com/80269896/137012651-b078be10-9a56-4246-92f2-4afa528e03ec.png" width= "100%">
  
 <hr></hr>
 
-[<h3> TodoList </h3>](https://github.com/miliii1/todolist)
+[<h3> App Libros </h3>](https://github.com/miliii1/app-libros)
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/80269896/124759792-6f989300-df06-11eb-8bc3-ffc42247f9ce.png" width= "100%">
+<img src= "https://camo.githubusercontent.com/6a0ed757825568868baa0f7df3326ebc0615ec13d08a3111d71e0e450a137f2b/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3735313531343933303437373430303037372f3836393334333333393933363338333031362f756e6b6e6f776e2e706e673f77696474683d383737266865696768743d343235" width= "90%">
  
  <h2>Contact</h2>
  <p align="center">
