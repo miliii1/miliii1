@@ -34,6 +34,8 @@
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/80269896/138746046-1fd7aa42-5de5-4822-9e76-c2ad7ddef365.png" width= "90%">
 
+<hr></hr>
+
 [<h3> Web Marvel </h3>](https://github.com/miliii1/primera-ja)
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/80269896/144685877-74e39c49-f4b6-440b-8374-bc3c2258cdbf.png" width= "100%">
