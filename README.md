@@ -4,7 +4,7 @@ Soy una persona apasionada por la tecnología y el desarrollo de software. Desde
 Estoy siempre productiva y buscando nuevas oportunidades para crecer en este fascinante mundo. Mi deseo de aprender, mi habilidad para comunicarme eficazmente y mi experiencia en el desarrollo de aplicaciones web completas son elementos clave que me impulsan a buscar nuevos retos y aventuras.
 
 - 💻 full stack, aunque prefiero más el back 
-- 💚 Fan de **documentar** & **<prueba y error=aprendizaje />**
+- 💚 Fan de **documentar** & **< prueba y error=aprendizaje />**
 - 📚 Actualmente aprendiendo Java ☕️
 - 📖 Cuando no estoy codeando --> estoy *leyendo* o jugando 🎮
 - // Not comment 😶
