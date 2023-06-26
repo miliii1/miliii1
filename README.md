@@ -1,7 +1,7 @@
 # ¡Hola :wave:! Soy Milagros, Full Stack Developer 👩‍💻
 
 Soy una persona apasionada por la tecnología y el desarrollo de software. Desde que descubrí el fascinante mundo de la programación, he estado en constante movimiento, siempre buscando nuevas formas de aprender y crecer en este campo tan dinámico. Como programadora de full stack, tengo una amplia experiencia tanto en el desarrollo del lado del servidor como en la creación de interfaces de usuario atractivas y funcionales. Mi objetivo es crear aplicaciones web completas y robustas que no solo sean visualmente atractivas, sino también eficientes y escalables.
-Estoy constantemente en movimiento, siempre productiva y buscando nuevas oportunidades para crecer en este fascinante campo. Mi deseo de aprender, mi habilidad para comunicarme eficazmente y mi experiencia en el desarrollo de aplicaciones web completas son elementos clave que me impulsan a buscar nuevos retos y aventuras.
+Estoy siempre productiva y buscando nuevas oportunidades para crecer en este fascinante mundo. Mi deseo de aprender, mi habilidad para comunicarme eficazmente y mi experiencia en el desarrollo de aplicaciones web completas son elementos clave que me impulsan a buscar nuevos retos y aventuras.
 
 - 💻 full stack, aunque prefiero más el back 
 - 💚 Fan de **documentar** & **<prueba y error=aprendizaje/>**
