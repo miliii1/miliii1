@@ -1,10 +1,14 @@
 <h3>¡Hola :wave:! Soy Milagros, Full Stack Developer 👩‍💻</h3>
 </p>
 <samp>
-<br/>I'm a full stack developer and systems student at the UBA (Universidad de Buenos Aires) faculty, passionate about programming👩‍💻. I adapt easily to changes and aspire to continue progressing giving my best</br>
+<br/></br>
 </samp>
 
- <h3 align="center">Tecnologías que utilizo/h3>
+-
+-
+-
+
+ <h3">Tecnologías que utilizo</h3>
 </p>
 <hr></hr>
 
