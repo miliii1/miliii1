@@ -3,6 +3,9 @@
 <samp>
 <br/>I'm a full stack developer and systems student at the UBA (Universidad de Buenos Aires) faculty, passionate about programming👩‍💻. I adapt easily to changes and aspire to continue progressing giving my best</br>
 </samp>
+•
+•
+•
  <h3 align="center">Skills</h3>
 </p>
 <hr></hr>
