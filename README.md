@@ -8,7 +8,7 @@
 -
 -
 
- <h3">Tecnologías que utilizo</h3>
+ <h3>Tecnologías que utilizo</h3>
 </p>
 <hr></hr>
 
