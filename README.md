@@ -29,5 +29,5 @@
  ### Sigamos en contacto 📱
  
 - LinkedIn
-[https://www.linkedin.com/in/milagros-jara/]
+ https://www.linkedin.com/in/milagros-jara/
 - Email: milagrosjarag20@gmail.com
