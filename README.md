@@ -1,12 +1,10 @@
-<h3 align="center">¡Hey :wave:! I'm Milagros Jara</h3>
+<h3>¡Hola :wave:! Soy Milagros, Full Stack Developer 👩‍💻</h3>
 </p>
 <samp>
 <br/>I'm a full stack developer and systems student at the UBA (Universidad de Buenos Aires) faculty, passionate about programming👩‍💻. I adapt easily to changes and aspire to continue progressing giving my best</br>
 </samp>
-•
-•
-•
- <h3 align="center">Skills</h3>
+
+ <h3 align="center">Tecnologías que utilizo/h3>
 </p>
 <hr></hr>
 
@@ -27,4 +25,4 @@
  <h2>Contact</h2>
  <p align="center">
     <a href="https://www.linkedin.com/in/milagros-jara/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:milagrosjarag20@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>### Hi there 👋
+    <a href="mailto:milagrosjarag20@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
