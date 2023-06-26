@@ -10,7 +10,8 @@
 
  ### Tecnologías que utilizo
 </p>
-<hr></hr>
+<hr></h>
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,10 +25,9 @@
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 
  ### Sigamos en contacto 📱
  
-- LinkedIn
- https://www.linkedin.com/in/milagros-jara/
+- LinkedIn: https://www.linkedin.com/in/milagros-jara/
 - Email: milagrosjarag20@gmail.com
